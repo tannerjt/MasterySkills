@@ -5,6 +5,10 @@ List of skills I want to master, and things that help me get there.  I've been d
 
 + YouTube - [The Ultimate Introduction to ReactJS (Part 1)](https://www.youtube.com/watch?v=pTHCwUdGFkc)
 
+## Redux
+
++ Egghead.io [Getting Started with Redux (30 vidoes)](https://egghead.io/courses/getting-started-with-redux)
+
 ## React-Native
 
 ## Ruby on Rails
