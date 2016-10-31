@@ -26,3 +26,7 @@ List of skills I want to master, and things that help me get there.  I've been d
 ## Mapbox GL
 
 ## PostgreSQL
+
+# Up-Next Resources
+
+[JS-Stack-From-Scratch](https://github.com/verekia/js-stack-from-scratch)
