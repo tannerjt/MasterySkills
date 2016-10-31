@@ -25,7 +25,9 @@ List of skills I want to master, and things that help me get there.  I've been d
 
 ## Mapbox GL
 
-## PostgreSQL
+## SQL
+
+## C#
 
 # Up-Next Resources
 
