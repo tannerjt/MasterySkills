@@ -3,7 +3,7 @@ List of skills I want to master, and things that help me get there.  I've been d
 
 ## Level-Up JavaScript
 
-+ Tutorial [JS-Stack-From-Scratch](https://github.com/verekia/js-stack-from-scratch/)
++ Tutorial - [JS-Stack-From-Scratch](https://github.com/verekia/js-stack-from-scratch/)
 
 ## ReactJS
 
@@ -11,7 +11,11 @@ List of skills I want to master, and things that help me get there.  I've been d
 
 ## Redux
 
-+ Egghead.io [Getting Started with Redux (30 vidoes)](https://egghead.io/courses/getting-started-with-redux)
++ Egghead.io - [Getting Started with Redux (30 vidoes)](https://egghead.io/courses/getting-started-with-redux)
++ YouTube - [How Redux Works](https://www.youtube.com/watch?v=1w-oQ-i1XB8)
++ YouTube - [Redux Tutorial](https://www.youtube.com/watch?v=ucd5x3Ka3gw)
++ YouTube - [Multiple Reducers with Redux Reducers](https://www.youtube.com/watch?v=gBER4Or86hE)
++ YouTube - [Redux Middleware Tutorial](https://www.youtube.com/watch?v=DJ8fR0mZM44)
 
 ## React-Native
 
