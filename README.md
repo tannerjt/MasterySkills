@@ -16,6 +16,8 @@ List of skills I want to master, and things that help me get there.  I've been d
 + YouTube - [Redux Tutorial](https://www.youtube.com/watch?v=ucd5x3Ka3gw)
 + YouTube - [Multiple Reducers with Redux Reducers](https://www.youtube.com/watch?v=gBER4Or86hE)
 + YouTube - [Redux Middleware Tutorial](https://www.youtube.com/watch?v=DJ8fR0mZM44)
++ YouTube - [Redux Async Actions](https://www.youtube.com/watch?v=Td-2D-_7Y2E)
++ YouTube - [Connecting React & Redux](https://www.youtube.com/watch?v=nrg7zhgJd4w) 
 
 ## React-Native
 
