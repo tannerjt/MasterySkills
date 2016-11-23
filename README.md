@@ -37,6 +37,8 @@ List of skills I want to master, and things that help me get there.  I've been d
 
 ## Mapbox GL
 
+## D3
+
 ## SQL
 
 ## C#
