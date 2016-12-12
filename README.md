@@ -25,7 +25,9 @@ List of skills I want to master, and things that help me get there.  I've been d
 
 + YouTube - [Introduction to React Native](https://www.youtube.com/watch?v=r5OPRhelEIU)
 
-## Ruby on Rails
+## Ruby / Ruby on Rails
+
++ Codecademy - [Ruby](https://www.codecademy.com/learn/ruby)
 
 ## NodeJS
 
