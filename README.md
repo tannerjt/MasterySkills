@@ -29,10 +29,6 @@ List of skills I want to master, and things that help me get there.  I've been d
 
 + Codecademy - [Ruby](https://www.codecademy.com/learn/ruby)
 
-## NodeJS
-
-## ExpressJS
-
 ## Authentication
 
 ## Networking
@@ -46,6 +42,8 @@ List of skills I want to master, and things that help me get there.  I've been d
 ## C#
 
 ## Python
+
+## NodeJS
 
 # Up-Next Resources
 
