@@ -27,7 +27,11 @@ List of skills I want to master, and things that help me get there.  I've been d
 
 ## Ruby / Ruby on Rails
 
-+ Codecademy - [Ruby](https://www.codecademy.com/learn/ruby)
++ Codecademy (Ruby) - [Ruby](https://www.codecademy.com/learn/ruby)
++ Codecademy (Rails) - [Rails](https://www.codecademy.com/learn/learn-rails)
++ Scotch.io - [Build a Blog with Rails](https://scotch.io/tutorials/build-a-blog-with-ruby-on-rails-part-1)
++ Pinterest Clone - [Mackenzie Child Tutorial](https://www.youtube.com/watch?v=abcnfFS_DS8)
++ Ruby on Rails Tutorial - [Book](https://www.railstutorial.org/book)
 
 ## Authentication
 
