@@ -32,6 +32,7 @@ List of skills I want to master, and things that help me get there.  I've been d
 + Scotch.io - [Build a Blog with Rails](https://scotch.io/tutorials/build-a-blog-with-ruby-on-rails-part-1)
 + Pinterest Clone - [Mackenzie Child Tutorial](https://www.youtube.com/watch?v=abcnfFS_DS8)
 + Ruby on Rails Tutorial - [Book](https://www.railstutorial.org/book)
++ Build a Workout App - [Mackenzie Child Tutorial](https://www.youtube.com/watch?v=2_Lbj3slZUY&index=8&list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-)
 
 ## Authentication
 
