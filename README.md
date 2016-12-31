@@ -33,6 +33,7 @@ List of skills I want to master, and things that help me get there.  I've been d
 + Pinterest Clone - [Mackenzie Child Tutorial](https://www.youtube.com/watch?v=abcnfFS_DS8)
 + Ruby on Rails Tutorial - [Book](https://www.railstutorial.org/book)
 + Build a Workout App - [Mackenzie Child Tutorial](https://www.youtube.com/watch?v=2_Lbj3slZUY&index=8&list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-)
++ Build a Forum App = [Mackenzie Child Tutorial](https://www.youtube.com/watch?v=rTP1eMfI5Bs&list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-&index=10)
 
 ## Authentication
 
