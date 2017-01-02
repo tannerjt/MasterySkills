@@ -34,6 +34,7 @@ List of skills I want to master, and things that help me get there.  I've been d
 + Ruby on Rails Tutorial - [Book](https://www.railstutorial.org/book)
 + Build a Workout App - [Mackenzie Child Tutorial](https://www.youtube.com/watch?v=2_Lbj3slZUY&index=8&list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-)
 + Build a Forum App - [Mackenzie Child Tutorial](https://www.youtube.com/watch?v=rTP1eMfI5Bs&list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-&index=10)
++ Build a Movie Review App = [Mackenzie Child Tutorial](https://www.youtube.com/watch?v=0DR5JLZ2Qgg&list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-&index=5)
 + Agile Development with Rails 5 - [Book](https://www.amazon.com/Agile-Web-Development-Rails-5/dp/1680501712/ref=sr_1_3?s=books&ie=UTF8&qid=1483212216&sr=1-3&keywords=ruby+on+rails)
 
 ## Authentication
